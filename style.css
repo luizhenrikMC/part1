@@ -5,10 +5,27 @@
   align-items:center;
 }
 
-
-
-
 .head h1{
     font-size: clamp(28px, 5.5vw, 48px);
     font-weight:200;
+}
+
+.perfilcon{ 
+    display:flex;
+    align-items:center;
+    margin: 24px;
+}
+
+.perfil {
+    width: 200px;
+    height: 200px;
+    display: block;
+    margin: 20px;
+    border-radius: 50%;
+    background-color: black;
+
+}
+
+.perfil.texto h2 {
+    margin: 0 0 8px 0;
 }
