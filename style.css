@@ -1,0 +1,19 @@
+ body {
+            background-color: rgb(123, 183, 236);
+        }
+        h1 {
+            color: black;
+            font-size: 70px;
+        }
+        .caixa {
+            width: 300px;
+            height: 250px;
+            margin: 50px auto;
+            background-color: rgb(209, 186, 255);
+            color: black;
+            border-radius: 100px;
+            padding: 80px;
+        }
+        .caixa h2 {
+            color: black;
+        }
